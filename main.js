@@ -25,5 +25,5 @@
         }
     }
 
-    setInterval(blankAds, 200);
+    setInterval(blankAds, 500);
 })();
